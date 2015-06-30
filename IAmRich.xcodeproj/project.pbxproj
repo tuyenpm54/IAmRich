@@ -14,6 +14,7 @@
 		D82273531B4232FA002BB2AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D82273521B4232FA002BB2AE /* Images.xcassets */; };
 		D82273561B4232FA002BB2AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D82273541B4232FA002BB2AE /* LaunchScreen.xib */; };
 		D82273621B4232FA002BB2AE /* IAmRichTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D82273611B4232FA002BB2AE /* IAmRichTests.m */; };
+		D822736C1B423429002BB2AE /* ruby.png in Resources */ = {isa = PBXBuildFile; fileRef = D822736B1B423429002BB2AE /* ruby.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		D822735B1B4232FA002BB2AE /* IAmRichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IAmRichTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D82273601B4232FA002BB2AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D82273611B4232FA002BB2AE /* IAmRichTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IAmRichTests.m; sourceTree = "<group>"; };
+		D822736B1B423429002BB2AE /* ruby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ruby.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				D822734C1B4232FA002BB2AE /* ViewController.h */,
 				D822734D1B4232FA002BB2AE /* ViewController.m */,
 				D822734F1B4232FA002BB2AE /* Main.storyboard */,
+				D822736B1B423429002BB2AE /* ruby.png */,
 				D82273521B4232FA002BB2AE /* Images.xcassets */,
 				D82273541B4232FA002BB2AE /* LaunchScreen.xib */,
 				D82273451B4232FA002BB2AE /* Supporting Files */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D82273511B4232FA002BB2AE /* Main.storyboard in Resources */,
+				D822736C1B423429002BB2AE /* ruby.png in Resources */,
 				D82273561B4232FA002BB2AE /* LaunchScreen.xib in Resources */,
 				D82273531B4232FA002BB2AE /* Images.xcassets in Resources */,
 			);
